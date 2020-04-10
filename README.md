@@ -1,12 +1,30 @@
 # flashland-v5
-Released because Fares want to play with my balls
 
-# Tu m'as bien khalass Loly merci la zone
+![mainimage](https://i.ibb.co/KDF5k7B/thread-design.png)
 
-French core
+# Showcase vêtement en item + boutique de vêtement
+https://streamable.com/q1o10
 
-# Ils manquent certains truc et je ne vous aiderai pas pour ceux-ci
+# Inventaire
+https://streamable.com/jllsv
 
-# A certains endroit le code est moche (et oui c'est la vie)
 
-# Penser à faire npm i uuid-with-v6 dans la resource flashland
+# Magasin d'armes
+https://streamable.com/fgc3s
+https://streamable.com/dn54l
+https://streamable.com/7fqy1
+
+# Garage
+https://streamable.com/retzx
+
+# Concess
+https://streamable.com/l0keb
+
+# ATM
+https://streamable.com/sdlcv
+
+# Tatooshop
+https://streamable.com/uquh8
+
+# Drogue inter quartier
+https://streamable.com/uq0sa
